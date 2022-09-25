@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Finnbyte/Tic-Tac-Go/main/img/logo.png" width=500px height=500px>
+
 # Tic-Tac-Go (Properly known as Tic-Tac-Toe)
 Fun little game project for making a CLI tic-tac-toe in `go`.
 
